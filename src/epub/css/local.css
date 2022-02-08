@@ -48,9 +48,10 @@ section[epub|type~="dedication"] > *{
 	display: none;
 }
 
-[epub|type~="z3998:verse"] > header > [epub|type~="title"]{
+[epub|type~="z3998:verse"] header{
 	font-variant: small-caps;
 	margin-bottom: .5em;
+	text-align: center;
 }
 
 p span.i1{
@@ -72,8 +73,4 @@ footer{
 [epub|type~="z3998:salutation"],
 [epub|type~="z3998:signature"]{
 	font-variant: small-caps;
-}
-
-p[epub|type~="z3998:salutation"]{
-	margin-bottom: .5em;
 }
