@@ -42,7 +42,7 @@
 		<dc:description id="description">A composer meets a young woman and tracks her down to a country manor, where a case of mistaken identity leads to comedy.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;An American composer, George Bevan, falls in love with a mysterious young lady who takes refuge in his taxicab one day. He tracks her down to an English country manor, where a case of mistaken identity leads to all manner of comedy and excitement.&lt;/p&gt;
-			&lt;p&gt;The novel was first serialized in &lt;i&gt;The Saturday Evening Post&lt;/i&gt; in 1919. It was later adapted into a silent film, a stage , and a musical starring Fred Astaire.&lt;/p&gt;
+			&lt;p&gt;The novel was first serialized in &lt;i&gt;The Saturday Evening Post&lt;/i&gt; in 1919. It was later adapted into a silent film, a stage play, and a musical starring Fred Astaire.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/2233</dc:source>
