@@ -52,7 +52,7 @@
 		<meta property="se:production-notes">N/A</meta>
 		<meta property="se:word-count">78330</meta>
 		<meta property="se:reading-ease.flesch">75.3</meta>
-		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/A_Damsel_in_Distress</meta>
+		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/A_Damsel_in_Distress_(novel)</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/p-g-wodehouse_a-damsel-in-distress</meta>
 		<dc:creator id="author">P. G. Wodehouse</dc:creator>
 		<meta property="file-as" refines="#author">Wodehouse, P. G.</meta>
